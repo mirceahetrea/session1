@@ -4,8 +4,7 @@
 #Result:
 #a = [5, 4, 3, 2, 1]
 
-a = [1,2,3,4,5
-     ]
+a = [1,2,3,4,5]
 list.reverse(a)
 print ('Ex1: Inverted list is:', a)
 
@@ -18,7 +17,6 @@ print ('Ex1: Inverted list is:', a)
 
 a = [1, 1, 2, 2, 2, 2, 3, 3, 3]
 b = 2
-
 count = 0
 for i in a:
 	if ( i == b):
